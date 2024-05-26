@@ -1,2 +1,2 @@
 # Amazon-clone
-This is simple amazone clone, write in html and css . 
+This is simple amazone clone, write in html and css . also used fontawsome.
